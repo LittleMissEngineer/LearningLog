@@ -4,6 +4,50 @@ This is a collection of all the resources I have been using to learn programming
 and then I will move onto backend languages as well. This learning log was inspired by Syknapse's Learning Tracker Repo, which
 can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-months
 
+# Language Comfort Level
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="6"> Programming Language Comfort Level </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Language </td>
+            <td>Basics </td>
+            <td> Beginner </td>
+            <td> Intermediate </td>
+            <td> Advanced Intermediate </td>
+            <td> Real World Project Completed with Language </td>
+        </tr>
+         <tr>
+        <td> HTML </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+        </tr>
+          <tr>
+        <td> CSS </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+              <td> </td>
+            <td> ✅ </td
+        </tr>
+          <tr>
+         <td> Javascript </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td> ✅ </td>
+            <td>  </td>
+            <td> ✅ </td
+        </tr>
+    </tbody>
+</table>
+
 # How I'm Learning
 
 <table>
