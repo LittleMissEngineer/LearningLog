@@ -101,10 +101,17 @@ can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-mo
         </tr>
         <tr>
         <td> App Academy Open </td>
-            <td> November 2019 </td>
+            <td> Nov 2019 </td>
             <td> n/a </td>
             <td> No </td>
             <td> Free </td>
+        </tr>
+         <tr>
+        <td> Educative.io </td>
+            <td> Aug/Sept 2019 </td>
+            <td> 2 </td>
+            <td> No </td>
+            <td> Free (for 6 months as student) </td>
         </tr>
     </tbody>
 </table>
