@@ -21,7 +21,8 @@ can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-mo
             <td>Cost</td>
         </tr>
         <tr>
-        <td> Udacity </td>
+            <td> Udacity </td> 
+            <td> 2017 </td>
         </tr>
         <tr>
          <td> CodingPhase </td>
