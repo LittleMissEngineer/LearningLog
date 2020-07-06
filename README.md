@@ -67,8 +67,7 @@ can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-mo
 
 Note: I am limiting myself to only learning from a MAX of 2 platforms at a time to avoid overwhelming myself with options
 
-# Interview Prep Resources / Youtube Channels 
-CodePath
+# Interview Prep Resources
 <table>
     <thead>
         <tr>
@@ -90,6 +89,11 @@ CodePath
         <td> Women in Web Dev </td>
             <td> 4.5/5 </td>
             <td> $ </td>
+        </tr>
+          <tr>
+        <td> CodePath </td>
+            <td> TBD </td>
+            <td> Free, but application needed </td>
         </tr>
     </tbody>
 </table>
