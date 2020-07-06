@@ -4,7 +4,7 @@ This is a collection of all the resources I have been using to learn programming
 and then I will move onto backend languages as well. This learning log was inspired by Syknapse's Learning Tracker Repo, which
 can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-months
 
-# Resources 
+# How I'm Learning
 
 <table>
     <thead>
