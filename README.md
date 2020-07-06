@@ -17,34 +17,80 @@ can be found here : https://github.com/Syknapse/My-Learning-Tracker-first-ten-mo
             <td>Website</td>
             <td>Year Discovered</td>
             <td>Courses Taken</td>
-            <td> Currently Using </td>
+            <td> Using at the Moment </td>
             <td>Cost</td>
         </tr>
         <tr>
             <td> Udacity </td> 
-            <td> 2017 </td>
+            <td> Dec 2017 </td>
+            <td>  5 </td>
+            <td> Yes </td>
+            <td> Free - $$$ </td>
         </tr>
         <tr>
          <td> CodingPhase </td>
+            <td> Nov 2018 </td>
+            <td>  5 </td>
+            <td> Yes </td>
+            <td> $ - $$ </td>
         </tr>
          <tr>
         <td> Udemy </td>
+             <td> Dec 2017 </td>
+            <td> 8 </td>
+            <td> No </td>
+            <td> $ </td>
         </tr>
         <tr>
         <td> Codecademy </td>
+            <td> Dec 2017 </td>
+            <td> 3 </td>
+            <td> No </td>
+            <td> Free - $ </td>
         </tr>
          <tr>
         <td> Harvard CS50 Class</td>
+             <td> mid 2018 </td>
+            <td> n/a </td>
+            <td> No </td>
+            <td> Free </td>
         </tr>
         <tr>
         <td> App Academy Open </td>
+            <td> November 2019 </td>
+            <td> n/a </td>
+            <td> No </td>
+            <td> Free </td>
         </tr>
     </tbody>
 </table>
 
 Note: I am limiting myself to only learning from a MAX of 2 platforms at a time to avoid overwhelming myself with options
 
-# Professional Development Resources / Youtube Channels 
-Coding Path
-
+# Interview Prep Resources / Youtube Channels 
+CodePath
+<table>
+    <thead>
+        <tr>
+            <th colspan="3"> Resources </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Website</td>
+            <td> Community Engagement</td>
+            <td>Cost</td>
+        </tr>
+         <tr>
+        <td> Code With Mosh </td>
+            <td> 4/5 </td>
+            <td> $ </td>
+        </tr>
+          <tr>
+        <td> Women in Web Dev </td>
+            <td> 4.5/5 </td>
+            <td> $ </td>
+        </tr>
+    </tbody>
+</table>
 
