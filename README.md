@@ -149,3 +149,6 @@ Note: I am limiting myself to only learning from a MAX of 2 platforms at a time 
     </tbody>
 </table>
 
+# Skills I'm Learning as a Hobby
+
+Android Development
