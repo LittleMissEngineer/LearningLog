@@ -151,5 +151,5 @@ Note: I am limiting myself to only learning from a MAX of 2 platforms at a time 
 
 # Skills I'm Learning as a Hobby
 
-Android Development
+Android Development <br>
 Machine Learning/AI
